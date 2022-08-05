@@ -1,0 +1,50 @@
+.post {
+    padding: 115px 0 60px;
+    background-color: #f9f5f5;
+}
+
+.post__title {
+    margin: 0 0 90px;
+}
+
+.post-card {
+    width: 455px;
+    padding: 15px 10px 45px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 3px #aaa;
+}
+
+.post-card__img {
+    margin: 0 0 35px;
+}
+
+.post-card__text {
+    margin: 0 0 15px;
+    padding: 0 30px 0;
+    color: #525252;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.2;
+    span {
+        color: #000;
+        font-weight: 500;
+        font-size: 18px;
+    }
+}
+
+.post-card__wrapper {
+    padding: 0 30px 0;
+    display: flex;
+    color: #bdbdbd;
+    font-size: 12px;
+}
+
+.post-card__community {
+    margin: 0 65px 0 0;
+    display: flex;
+    align-items: center;
+}
+
+.post-card__icon {
+    margin: 0 10px 0 0;
+}

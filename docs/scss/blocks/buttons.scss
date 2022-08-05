@@ -1,0 +1,42 @@
+.button {
+    display: inline-block;
+    //height: 45px;
+    width: 160px;
+    //padding: 0 30px;
+    border-radius: 30px;
+    border: none;
+    font-size: 18px;
+    line-height: 2.5;
+    text-align: center;
+}
+
+.button--white {
+    background-color: #fff;
+    color: #0078ff;
+    margin: 0 50px 0 0;
+    font-weight: 400;
+}
+
+.button--blue {
+    background-color: #16c5ff;
+    color: #fff;
+    font-weight: 400;
+}
+
+.button--about {
+    padding: 0px 45px;
+    width: 225px;
+    height: 60px;
+    line-height: 2.8;
+    border-radius: 35px;
+    font-size: 22px;
+    color: #656565;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 3px rgb(214, 214, 214);
+    font-weight: 400;
+}
+
+.button--color-writing-3 {
+    background-color: #0050d5;
+    color: #fff;
+}

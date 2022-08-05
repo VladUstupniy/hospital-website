@@ -1,0 +1,63 @@
+.footer {
+    padding: 110px 0 50px;
+    background-color: #202020;
+}
+
+.footer-content {
+    display: flex;
+    padding: 0 0 80px;
+    margin: 0 0 50px;
+    border-bottom: 2px solid #969696;
+}
+
+.footer-socials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-socials__link {
+    margin: 0 55px 0 0;
+}
+
+.footer-content__title {
+    margin: 0 0 40px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.footer-content__text {
+    color: #bababa;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.footer-content__list-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.footer-content__list {
+    margin: 0 90px 0 0;
+}
+
+.footer-content__about-us {
+    width: 520px;
+    margin: 0 70px 0 0;
+    p {
+        margin: 0;
+        line-height: 2;
+    }
+}
+
+.footer-content__tags {
+    width: 390px;
+    margin: 0 85px 0 0;
+}
+
+.footer-content__appointment {
+    width: 520px;
+}

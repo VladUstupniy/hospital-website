@@ -1,0 +1,45 @@
+.panel {
+    padding: 130px 0 175px;
+}
+
+.panel__title {
+    margin: 0 0 120px;
+}
+
+.panel-card {
+    width: 440px;
+}
+
+.panel-card__img{
+    height: 440px;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.card__img-1 {
+    background-image: url('..//img/photo-doctors/doctor-1.jpg');
+}
+
+.card__img-2 {
+    background-image: url('..//img/photo-doctors/doctor-2.jpg');
+}
+
+.card__img-3 {
+    background-image: url('..//img/photo-doctors/doctor-3.jpg');
+}
+
+.panel-card__text {
+    background-color: #0050d5;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0 5px;
+}
+
+.panel-card__name {
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+.panel-card__specials {
+    font-size: 24px;
+}

@@ -1,0 +1,46 @@
+.color-writing {
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    &::before {
+        position: absolute;
+        display: block;
+        content: '';
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 82, 213, 0.9);
+        z-index: -1;
+    }
+    z-index: 0;
+}
+
+.color-writing-1 {
+    height: 590px;
+    padding: 190px 0 0;
+    background-image: url('..//img/photo-doctors/photo-doctors-long.jpg');
+}
+
+.color-writing__content {
+    width: 980px;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+}
+
+.color-writing__text {
+    font-size: 44px;
+    line-height: 1.2;
+    p {
+        margin: 0;
+    }
+    margin: 0 0 20px;
+}
+
+.color-writing__signature {
+    font-size: 20px;
+    line-height: 1;
+}

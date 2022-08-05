@@ -1,0 +1,51 @@
+.color-writing-3 {
+    padding: 90px 0 60px;
+    background-image: url('..//img/color-writing-3/color-writing-bg-3.jpg');
+}
+
+.color-writing__title {
+    margin: 0 0 10px;
+    color: #fff;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.color-writing__subtitle {
+    margin: 0 0 130px;
+    color: #fff;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.color-writing-3-card {
+    position: relative;
+    padding: 160px 60px 70px;
+    width: 470px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.color-writing-3-card__img {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.color-writing-3-card__title {
+    margin: 0 0 50px;
+    font-size: 25px;
+    color: #535353;
+    font-weight: 500;
+}
+
+.color-writing-3-card__text {
+    margin: 0 0 50px;
+    font-size: 20px;
+    color: #aaaaaa;
+    font-weight: 400;
+}

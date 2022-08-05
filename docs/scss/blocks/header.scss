@@ -1,0 +1,40 @@
+.header {
+    background-color: #0050d5;
+    padding: 80px 0 0;
+}
+
+.header__content-wraper {
+    display: flex;
+}
+
+.header__content{
+    padding: 145px 0 0;
+    color: #fff;
+    width: 758px;
+}
+
+.header__subtitle {
+    font-size: 78px;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.header__title{
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.header__title-desc {
+    font-size: 35px;
+    font-weight: 300;
+    line-height: 1.2;
+
+    margin-bottom: 70px;
+}
+
+.header__text {
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+  
